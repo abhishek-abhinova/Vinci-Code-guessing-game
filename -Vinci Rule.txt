@@ -1,0 +1,20 @@
+                                           ->Vinci Rule
+Texas Tie-Breaker Rule => 
+-> In the event of tie the player who occupies spot 9 wins by default.
+-> If space 9 is removed then players may use the Absolute Texas Tie-Breaker Rule that says the last player who occupied spot 9 wins.
+->The Absolute Texas Tie-Breaker Rule is sometimes called Sweetwater Rule.(In honour of Clem Howard ) 
+->Add random generator from 6 to 36  (Higher Number decides order of Play for the first inning  )
+->According to Player Name(P1,P2,P3,P4,P5) 
+Yeah next Week
+Till then take care stay connected and subscribe Our channel Wake up and think Clearly
+Yeah Sir thank you
+
+
+
+Steps for vinci game
+1. Ask number of players
+2.Enter Name of the players
+3.Decide order of players use random number generator from 6 to 36 and who get more number will get 1st order and order should be in clockwise direction
+The player who get more number will get chance to chose the position from 1 to 5
+
+
