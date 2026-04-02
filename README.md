@@ -1,8 +1,8 @@
-# Vinci-Code-guessing-game
+# Vinci-thinking-game
 A project that challenged my problem-solving, logic building, and coding skills in a fun and creative way.  
 🚀 Project Milestone Unlocked! 🎮
 
-I'm excited to share that I’ve successfully designed and developed a Vinci Code Guessing Board Game using Python — a project that challenged my problem-solving, logic building, and coding skills in a fun and creative way.
+I'm excited to share that I’ve successfully designed and developed a Vinci Thinking Board Game using Python — a project that challenged my problem-solving, logic building, and coding skills in a fun and creative way.
 
 🔍 Key Features of the Game:
 ✅ Supports 2 to 5 players with dynamic player handling
